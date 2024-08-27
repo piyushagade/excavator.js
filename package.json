@@ -1,0 +1,25 @@
+{
+  "name": "excavator",
+  "version": "1.0.0",
+  "description": "Excavates JSON substring from any string.",
+  "main": "excavator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushagade/excavator.js.git"
+  },
+  "keywords": [
+    "JSON",
+    "extractor",
+    "JSON",
+    "parser"
+  ],
+  "author": "Piyush Agade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyushagade/excavator.js/issues"
+  },
+  "homepage": "https://github.com/piyushagade/excavator.js#readme"
+}
